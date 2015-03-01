@@ -13,6 +13,5 @@ This repository includes various dictionary data files in stardict data format.
 |Wordnet EN-EN|[Click here](https://github.com/arpan-chavda/dictrepo/blob/master/Wordnet_6_Eng_to_Eng.zip?raw=true)|
 |English Thesaurus|[Click here](https://github.com/arpan-chavda/dictrepo/blob/master/English%20Thesaurus.zip?raw=true)|
 |**Whole Database**|**[Click here(47.3 MB)](https://github.com/arpan-chavda/dictrepo/archive/2.0.zip)**|
-|----|---|
 
 
